@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TechGuide/static/css/main.cd1a1811.css",
-    "main.js": "/TechGuide/static/js/main.f5413dfd.js",
+    "main.css": "/TechGuide/static/css/main.9a037b4d.css",
+    "main.js": "/TechGuide/static/js/main.a88d3380.js",
     "static/js/787.425f66d6.chunk.js": "/TechGuide/static/js/787.425f66d6.chunk.js",
-    "static/media/slider.jpg": "/TechGuide/static/media/slider.82d96d47fdea63f73de6.jpg",
+    "static/media/photo.svg": "/TechGuide/static/media/photo.394d341e7f2bf891ff503a69753f76e8.svg",
     "index.html": "/TechGuide/index.html",
-    "main.cd1a1811.css.map": "/TechGuide/static/css/main.cd1a1811.css.map",
-    "main.f5413dfd.js.map": "/TechGuide/static/js/main.f5413dfd.js.map",
+    "main.9a037b4d.css.map": "/TechGuide/static/css/main.9a037b4d.css.map",
+    "main.a88d3380.js.map": "/TechGuide/static/js/main.a88d3380.js.map",
     "787.425f66d6.chunk.js.map": "/TechGuide/static/js/787.425f66d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd1a1811.css",
-    "static/js/main.f5413dfd.js"
+    "static/css/main.9a037b4d.css",
+    "static/js/main.a88d3380.js"
   ]
 }
